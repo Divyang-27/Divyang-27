@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyang Chhelavda</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Automation tester from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Test Automation Framework**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Testing**
 
 - 📫 How to reach me **divyang.chhelavda.02@gmail.com**
 

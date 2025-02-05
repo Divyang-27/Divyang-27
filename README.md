@@ -5,8 +5,8 @@
 
 - 💬 Ask me about **Devops**
 
-- 📫 How to reach me **divyang.chhelavda.02@gmail.com**
--                     **+91-9408041528**
+- 📫 How to reach me **divyang.chhelavda.02@gmail.com**/+91-9408041528
+-                   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

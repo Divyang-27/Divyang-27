@@ -6,12 +6,6 @@
 - 📫 Reach me at **divyang.chhelavda.02@gmail.com** | **+91-9408041528** | **https://linkedin.com/in/divyang-chhelavda**
 
 ---
-
-<h3 align="left">🌐 Connect with me:</h3>
-</p>
-
----
-
 <h3 align="left">🛠 Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">

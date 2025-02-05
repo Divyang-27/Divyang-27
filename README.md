@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Test Automation Framework**
-- 💬 Ask me about **DevOps & Automation Testing**
+- 💬 Ask me about **DevOps & Automation**
 - 📫 Reach me at **divyang.chhelavda.02@gmail.com** | **+91-9408041528** | **https://linkedin.com/in/divyang-chhelavda**
 
 ---
@@ -36,3 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyang-27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+
+
+
